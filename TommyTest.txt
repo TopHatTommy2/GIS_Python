@@ -1,1 +1,3 @@
-This is an attempt to push local files to the online repository
+This is an attempt to push local files to the online repository. 
+
+14:18 - Pushed from new PC to online.
